@@ -13,6 +13,7 @@
 		0C6CDE9D20E3C3FA0073FB94 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0C6CDE9C20E3C3FA0073FB94 /* Assets.xcassets */; };
 		0C6CDEA020E3C3FA0073FB94 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0C6CDE9E20E3C3FA0073FB94 /* LaunchScreen.storyboard */; };
 		0C6CDEAB20E3C3FA0073FB94 /* ClassExtraTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C6CDEAA20E3C3FA0073FB94 /* ClassExtraTests.swift */; };
+		0C6CDEB620E3CA3B0073FB94 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C6CDEB520E3CA3B0073FB94 /* SecondViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		0C6CDEA620E3C3FA0073FB94 /* ClassExtraTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ClassExtraTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0C6CDEAA20E3C3FA0073FB94 /* ClassExtraTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClassExtraTests.swift; sourceTree = "<group>"; };
 		0C6CDEAC20E3C3FA0073FB94 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0C6CDEB520E3CA3B0073FB94 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 				0C6CDE9C20E3C3FA0073FB94 /* Assets.xcassets */,
 				0C6CDE9E20E3C3FA0073FB94 /* LaunchScreen.storyboard */,
 				0C6CDEA120E3C3FA0073FB94 /* Info.plist */,
+				0C6CDEB520E3CA3B0073FB94 /* SecondViewController.swift */,
 			);
 			path = ClassExtra;
 			sourceTree = "<group>";
@@ -197,6 +200,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0C6CDEB620E3CA3B0073FB94 /* SecondViewController.swift in Sources */,
 				0C6CDE9820E3C3F90073FB94 /* ViewController.swift in Sources */,
 				0C6CDE9620E3C3F90073FB94 /* AppDelegate.swift in Sources */,
 			);
